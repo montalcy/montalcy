@@ -25,7 +25,7 @@ Outside of school, I am challenging myself to learn by working on:
     Building full-stack applications (working on a slot machine website)
   </li>
   <li>
-    Cleaning up my website portfolio
+    Improving portfolio website
   </li>
   <li>
     Developing a more solid understanding of front end development
