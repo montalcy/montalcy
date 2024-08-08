@@ -7,13 +7,13 @@ I'm a soon-to-be graduate from Eastern Washington University with a degree in <s
 Currently, I’m taking the following courses:
 <ul>
   <li>
-    CSCD 377-INTRODUCTORY COMPUTER GRAPHICS
+    CSCD 377 Introductory to Computer Graphics
   </li>
   <li>
-    CSCD 488 SENIOR PROJECT
+    CSCD 488 Senior Project
   </li>
   <li>
-    CSCD 495 INTERNSHIP
+    CSCD 495 Internship
   </li>
 </ul>
 
