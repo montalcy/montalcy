@@ -4,28 +4,12 @@ I'm a soon-to-be graduate from Eastern Washington University with a degree in <s
 <strong>Visual Communication Design</strong> and <strong>Spanish</strong>.
 
 # 🔍 What I’m Working On
-Currently, I’m taking the following courses:
 <ul>
   <li>
-    CSCD 377 Introductory to Computer Graphics
+    Building full-stack applications and solidifying my backend development
   </li>
   <li>
-    CSCD 488 Senior Project
-  </li>
-  <li>
-    CSCD 495 Internship
-  </li>
-</ul>
-
-
-
-Outside of school, I am challenging myself to learn by working on: 
-<ul>
-  <li>
-    Building full-stack applications (working on a slot machine website)
-  </li>
-  <li>
-    Improving portfolio website
+    Getting a fullstack certification on freecodecamp
   </li>
   <li>
     Developing a more solid understanding of front end development
