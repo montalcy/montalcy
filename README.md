@@ -1,6 +1,6 @@
 # Hi, I’m @montalcy 👋
 
-I'm a soon-to-be graduate from Eastern Washington University with a degree in <strong>Computer Science</strong> and a minor in both 
+I'm a graduate from Eastern Washington University with a degree in <strong>Computer Science</strong> and a minor in both 
 <strong>Visual Communication Design</strong> and <strong>Spanish</strong>.
 
 # 🔍 What I’m Working On
@@ -9,7 +9,10 @@ I'm a soon-to-be graduate from Eastern Washington University with a degree in <s
     Building full-stack applications and solidifying my backend development
   </li>
   <li>
-    Getting a fullstack certification on freecodecamp
+    Getting a fullstack certification on freecodecamp\
+    <ul>
+      <li>Responsive Web Design - 2025! ✔️</li>
+    </ul>
   </li>
   <li>
     Developing a more solid understanding of front end development
@@ -30,6 +33,9 @@ I'm a soon-to-be graduate from Eastern Washington University with a degree in <s
   </li>
     <li>
     CSS
+  </li>
+  <li>
+    Javascript
   </li>
 </ul>
 
