@@ -9,14 +9,18 @@ I'm a graduate from Eastern Washington University with a degree in <strong>Compu
     Building full-stack applications and solidifying my backend development
   </li>
   <li>
-    Getting a fullstack certification on freecodecamp\
+    Developing a more solid understanding of front end development
+  </li>
+  <li>
+    Getting a fullstack certification on freecodecamp
+    <ul>
+      <strong>Certifications: </strong>
     <ul>
       <li>Responsive Web Design - 2025! ✔️</li>
     </ul>
+    </ul>
   </li>
-  <li>
-    Developing a more solid understanding of front end development
-  </li>
+
 </ul>
 
 # 🌐 Languages
